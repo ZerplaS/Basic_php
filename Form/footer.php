@@ -38,7 +38,7 @@
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
     <li class="nav-item"><a href="index.php" class="nav-link px-2 text-info">Home</a></li>
       <li class="nav-item"><a href="formRegister.php" class="nav-link px-2 text-muted">Register</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
+      <li class="nav-item"><a href="insert.php" class="nav-link px-2 text-muted">Insert</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
       <li class="ms-3"><a class="text-muted" href="https://twitter.com/home" target="_blank"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"/></svg></a></li>
